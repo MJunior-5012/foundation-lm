@@ -1,0 +1,19 @@
+{
+  "model": {
+    "vocab_size": 4096,
+    "context_length": 256,
+    "dim": 320,
+    "heads": 8,
+    "layers": 6,
+    "hidden_dim": 1280,
+    "dropout": 0.1
+  },
+  "training": {
+    "batch_size": 16,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.1,
+    "steps": 150000,
+    "log_every": 100,
+    "checkpoint_every": 10000
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parameters": 19275648,
+  "context_length": 256,
+  "vocabulary_size": 4096,
+  "training_tokens": 153608448,
+  "best_checkpoint_step": 150000,
+  "validation_loss": 3.0438,
+  "test_loss": 3.0382,
+  "test_perplexity": 20.86,
+  "training_time_hours": 60.04,
+  "device": "CPU"
+}

@@ -1,0 +1,12 @@
+FoundationLM v0.3
+
+Parameters: 19,275,648
+Context length: 256
+Vocabulary size: 4,096
+Training tokens: 153,608,448
+Best checkpoint: 150,000
+Validation loss: 3.0438
+Test loss: 3.0382
+Test perplexity: 20.86
+Training time: 60.04 hours
+Device: Laptop CPU
